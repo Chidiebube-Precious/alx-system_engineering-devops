@@ -5,10 +5,10 @@
 #include <unistd.h>
 
 /**
- * * infinite_while - Run an infinite while loop.
- *  *
- *   * Return: Always 0.
- *    */
+ * infinite_while - Run an infinite while loop.
+ *
+ * Return: Always 0.
+ */
 int infinite_while(void)
 {
 	while (1)
